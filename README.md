@@ -1,4 +1,4 @@
-# Olá! Eu sou a **Ana Luiza ** 👋✨
+# Olá! Eu sou a Ana Luiza 👋✨
 
 <div align="center">
   <h2>💻 Estudante de Análise e Desenvolvimento de Sistemas</h2>
